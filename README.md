@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**ElakkiyaTamilselvan/ElakkiyaTamilselvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👋 Hi, I'm Elakkiya!
+
+I recently completed a Data Analyst course at Skillovilla🌱, where I developed strong skills in Excel, Power BI, SQL, and Python. I'm currently seeking job opportunities to apply my data analytics expertise and drive impactful solutions.
+
+In my free time, I enjoy walking, roaming the internet, cooking, and exploring new places. 🌍🍳
+Language and tools: Advanced Excel, SQL, Power BI, Python
+
+reach me  at elakkiyasscet@gmail.com 📫 
+connect with me : www.linkedin.com/in/elakkiya-tamilselvan-300845211
+
+
+
